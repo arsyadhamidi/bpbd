@@ -58,7 +58,8 @@
             <div class="navbar-brand-wrapper d-flex justify-content-center">
                 <div class="navbar-brand-inner-wrapper d-flex justify-content-between align-items-center w-100">
                     <a class="navbar-brand brand-logo" href="/dashboard">
-                        <img src="{{ asset('images/logo-1.png') }}"alt="logo" />
+                        <img src="{{ asset('images/logo-1.png') }}"alt="logo"
+                            style="width: 500px; margin-left: -20px" />
                     </a>
                     <a class="navbar-brand brand-logo-mini" href="/dashboard"><img src="{{ asset('images/logo.png') }}"
                             alt="logo" /></a>
